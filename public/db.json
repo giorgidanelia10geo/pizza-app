@@ -1,0 +1,124 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/12/80/03/c3/photo7jpg.jpg",
+      "name": "პეპერონის პიცა",
+      "types": [0, 1],
+      "sizes": [0, 1, 2],
+      "price": 20,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://just-eat-prod-eu-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto,w_450,h_450,d_uk:cuisines:pizza-8.jpg/v1/uk/restaurants/114018.jpg",
+      "name": "ყველის პიცა",
+      "types": [0, 1],
+      "sizes": [0, 1, 2],
+      "price": 20,
+      "category": 1,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMMfFBMW7hfOnxVx9zO4bS1OT9Y5FOjZllzw&usqp=CAU",
+      "name": "ხორცის პიცა",
+      "types": [0],
+      "sizes": [0, 1, 2],
+      "price": 25,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://just-eat-prod-eu-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto,w_450,h_450,d_uk:cuisines:pizza-7.jpg/v1/uk/restaurants/125547.jpg",
+      "name": "ტკბილი და მჟავე ქათამი",
+      "types": [1],
+      "sizes": [0, 1, 2],
+      "price": 20,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://just-eat-prod-eu-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto,w_450,h_450,d_uk:cuisines:italian-8.jpg/v1/uk/restaurants/5548.jpg",
+      "name": "ჩისზბურგერ პიცა",
+      "types": [0, 1],
+      "sizes": [0, 1, 2],
+      "price": 25,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://just-eat-prod-eu-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto,w_450,h_450,d_uk:cuisines:italian-8.jpg/v1/uk/restaurants/5548.jpg",
+      "name": "შეშლილი პეპერონი",
+      "types": [0],
+      "sizes": [0, 1],
+      "price": 25,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://www.kleinworthco.com/wp-content/uploads/2017/03/Mini-Chicken-Basil-Thin-Crust-Pizza-950-450x450-1.jpg",
+      "name": "პეპერონის პიცა",
+      "types": [0, 1],
+      "sizes": [0, 1, 2],
+      "price": 25,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/12/d6/c3/1a/photo1jpg.jpg",
+      "name": "მარგარიტა",
+      "types": [0, 1],
+      "sizes": [0, 1, 2],
+      "price": 25,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://www.thespruceeats.com/thmb/sSa5A7TR5QX5BxYR7s_btCVXnpI=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/rustic-italian-deep-fried-pizza-fritta-479676808-2fa6ef27a31e46b58432ddb7f4ab3193.jpg",
+      "name": "ოთხი სეზონი",
+      "types": [0, 1],
+      "sizes": [1, 2],
+      "price": 25,
+      "category": 5,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://www.farro.co.nz/assets/Uploads/83f5046bc9/Sausage-olive-and-basil-pizza-with-rocket-salad_IMG_0588f-450x450-v2.jpg",
+      "name": "ბოსტნეულის 🌱",
+      "types": [0, 1],
+      "sizes": [0, 1, 2],
+      "price": 20,
+      "category": 5,
+      "rating": 7
+    },
+     {
+      "id": 10,
+      "imageUrl": "https://www.niagarafallstourism.com/site/assets/files/2605/unnamed-1.450x450.jpg?v=mn7m5p",
+      "name": "ბოსტნეულის 🌱",
+      "types": [0, 1],
+      "sizes": [0, 1, 2],
+      "price": 20,
+      "category": 5,
+      "rating": 7
+    },
+      {
+      "id": 11,
+      "imageUrl": "https://spinfirepizza.com/wp-content/uploads/2019/08/Paleo-Garden-Pizza-Cherry-450x450.jpg",
+      "name": "ბოსტნეულის 🌱",
+      "types": [0, 1],
+      "sizes": [0, 1, 2],
+      "price": 20,
+      "category": 5,
+      "rating": 7
+    }
+  ]
+}

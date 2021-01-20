@@ -1,0 +1,71 @@
+@import 'variables';
+
+.sort {
+  position: relative;
+
+  &__label {
+    display: flex;
+    align-items: center;
+
+    @media screen and (max-width: 800px) {
+      display: none;
+    }
+
+    svg {
+      margin-right: 8px;
+      transform: rotate(180deg);
+      transition: .3s ease;
+
+      &.rotated {
+        transform: rotate(0);
+      }
+    }
+
+    b {
+      margin-right: 8px;
+      font-family: "ALK Sanet", sans-serif;
+    }
+
+    span {
+      color: $orange;
+      cursor: pointer;
+      font-family: "ALK Sanet", sans-serif;
+    }
+
+    @media screen and (max-width: 800px) {
+      margin-left: 50px;
+      font-size: 14px;
+    }
+  }
+
+  &__popup {
+    position: absolute;
+    right: 0;
+    margin-top: 15px;
+    background: #ffffff;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 10px 0;
+    width: 160px;
+
+    ul {
+      overflow: hidden;
+      li {
+        font-family: "ALK Sanet", sans-serif;
+        padding: 12px 20px;
+        cursor: pointer;
+        
+        &.active,
+        &:hover {
+          background: rgba(254, 95, 30, 0.05);
+        }
+
+        &.active {
+          font-weight: bold;
+          color: $orange;
+        }
+      }
+    }
+  }
+}
