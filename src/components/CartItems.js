@@ -41,8 +41,7 @@ const CartItems = ({
         <div className="cart__item-count">
           <div
             className="button button--outline button--circle cart__item-count-minus"
-            onClick={handleOnMinus}
-          >
+            onClick={handleOnMinus}>
             <svg
               width="10"
               height="10"
