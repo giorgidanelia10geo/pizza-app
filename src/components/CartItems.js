@@ -61,7 +61,9 @@ const CartItems = ({
             </svg>
 
           </div>
-          <b>{totalCount}</b>
+          <b>
+            {totalCount}
+          </b>
           <div
             className="button button--outline button--circle cart__item-count-plus"
             onClick={handleOnPlus}
