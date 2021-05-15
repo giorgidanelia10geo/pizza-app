@@ -1,3 +1,5 @@
+<img width="1440" alt="pizza_1" src="https://user-images.githubusercontent.com/56640904/118369674-55e96800-b5b5-11eb-89e3-1c5d657211ab.png">
+<img width="1439" alt="Screenshot 2021-05-15 at 19 38 38" src="https://user-images.githubusercontent.com/56640904/118369683-5f72d000-b5b5-11eb-9b13-738ea629529d.png">
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
